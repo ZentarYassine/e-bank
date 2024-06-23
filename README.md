@@ -47,10 +47,19 @@ Frontend:
 6/ Les différents tansaction(CREDIT&DEBIT&TRANSFER) .
 
 CREDIT:
+
+
+
+
 ![8](https://github.com/ZentarYassine/e-bank/assets/165525392/1ce3e092-1b62-45c4-aacc-de064dc65a6c)
 
 
 DEBIT:
+
+
+
+
+
 ![9](https://github.com/ZentarYassine/e-bank/assets/165525392/c8c6a5fe-9fc1-4aa9-ab66-8a03bc02f43b)
 
 
